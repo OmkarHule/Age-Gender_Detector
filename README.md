@@ -17,3 +17,14 @@ Simple Age and Gender Detector using Machine Learning CNN
 7. Upload the image you want to detect
 8. Click on detect button
 9. View results
+
+## Sample Outputs:
+### Sample Output 1:
+![Sample Output 1](https://github.com/OmkarHule/Age-Gender_Detector/blob/main/Output_Image_1.png)
+### Sample Output 2:
+![Sample Output 2](https://github.com/OmkarHule/Age-Gender_Detector/blob/main/Output_Image_2.png)
+### Sample Output 3:
+![Sample Output 3](https://github.com/OmkarHule/Age-Gender_Detector/blob/main/Output_Image_3.png)
+### Sample Output 4:
+![Sample Output 4](https://github.com/OmkarHule/Age-Gender_Detector/blob/main/Output_Image_4.png)
+
